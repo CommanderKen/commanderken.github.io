@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrealucchini.com/sitemap.xml
