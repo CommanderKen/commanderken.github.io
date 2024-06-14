@@ -1,2 +1,2 @@
-# test-website
-Test website to try out github pages
+# My personal website
+This is the repo of my personal website hosted on GitHub Pages
