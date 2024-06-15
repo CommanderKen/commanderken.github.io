@@ -8,14 +8,14 @@ title = "Andrea Lucchini"
   isoCode = "it"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "homepage.jpg"
-  # secondaryLogo = "homepage.jpg"
+  # logo = "homepage.avif"
+  # secondaryLogo = "homepage.avif"
   description = "My personal website"
   copyright = "&copy; 2024 Andrea Lucchini"
 
 [author]
   name = "Andrea Lucchini"
-  image = "profile.avif"
+  image = "profile.jpg"
 # image = "img/blowfish_logo.png"
   headline = "Benvenuti sul mio sito personale"
 #  bio = "A little bit about you"

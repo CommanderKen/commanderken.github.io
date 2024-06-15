@@ -18,7 +18,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "background" #profile page hero background card
-homepageImage = "homepage.jpg"
+homepageImage = "homepage.avif"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
