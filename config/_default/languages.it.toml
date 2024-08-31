@@ -13,7 +13,7 @@ title = "Andrea Lucchini"
   description = "My personal website"
   copyright = "&copy; 2024 Andrea Lucchini"
 
-[author]
+[params.author]
   name = "Andrea Lucchini"
   image = "profile.jpg"
 # image = "img/blowfish_logo.png"
