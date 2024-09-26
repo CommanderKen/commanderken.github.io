@@ -1,6 +1,6 @@
 ---
 title: "Consigli libreschi 2024"
-date: 2024-06-14
+date: 2024-09-26
 draft: false
 description: "Consigli libreschi 2024"
 ---
@@ -40,3 +40,11 @@ Il [film](https://it.wikipedia.org/wiki/La_grande_scommessa) l'ho rivisto un mil
 ### Deep Work
 
 Questo è un must per chi vuole capire come concentrarsi e come svolgere lavoro intellettuale di qualità. Non può assolutamente mancare. In futuro vorrei farci un post a parte.
+
+### In difesa delle cause perse
+
+Zizek è semplicemente incredibile. Qui affronta il tema delle rivoluzioni e dei totalitarismi cercando di recuperare le "cause perse", cioè quei temi rivoluzionari che sono stati abbandonati dalla narrazione neoliberista contemporanea. Assolutamente da leggere.
+
+### Storia del Medio Oriente contemporaneo
+
+Un libro per comprendere un po' meglio l'attuale situazione in Medio Oriente. Il testo parte dall'800 e arriva fino quasi ai giorni nostri e a dispetto del titolo affronta l'area geografica non solo del Medio Oriente, ma anche dell'Anatolia, del Golfo Persico e del Nord Africa. 
