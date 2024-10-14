@@ -1,11 +1,13 @@
 ---
 title: "Riding bikes every day until I can't for some reason"
-date: 2024-10-10
+date: 2024-10-14
 draft: false
 description: "Riding bikes every day until I can't for some reason"
 ---
 
 #### Prendendo ispirazione da [questo post](https://www.reddit.com/r/bicycling/comments/1fxkmun/riding_bikes_every_day_until_i_cant_for_some/) di Reddit, ho deciso di fare un giro in bici tutti i giorni e di postare una foto!
+
+![Day 5](20241014_day5.jpg "14/10/2024 Day 5")
 
 ![Day 4](20241013_day4.jpg "13/10/2024 Day 4")
 
