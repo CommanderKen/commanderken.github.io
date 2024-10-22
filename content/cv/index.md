@@ -1,11 +1,15 @@
 ---
 title: "Curriculum Vitae"
-date: 2024-04-01
+date: 2024-10-01
 draft: false
 description: "My Curriculum Vitae"
 ---
 
 ## Esperienza lavorativa
+
+### Proiezionista
+
+CINEMA IRIDE – Costa Volpino, BG (Gennaio 2024 – In corso)
 
 ### Software developer
 
