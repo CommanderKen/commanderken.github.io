@@ -51,5 +51,7 @@ Una lista (in costante aggiornamento) dei libri che vorrei acquistare e leggere 
 - La rivoluzione francese (Furet)
 - Storia della Corea moderna e contemporanea (Seth)
 - Il Giappone contemporaneo dal 1945 a oggi (Revelant)
+- L'evoluzione della morale per selezione naturale (Guardo)
 - I segreti delle parole (Chomsky, Moro)
 - Le lingue impossibili (Moro)
+- La nascita di ogni cosa. Come l'universo è diventato complesso (Morowitz)
