@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-date: 2024-10-01
+date: 2024-11-18
 draft: false
 description: "My Curriculum Vitae"
 ---
@@ -32,7 +32,7 @@ Si occupa della manutenzione di siti e applicativi web.
 ## Istruzione
 
 ### Laurea in filosofia
-UNIVERSITÀ DEGLI STUDI DI MILANO (In corso)
+UNIVERSITÀ DEGLI STUDI DI MILANO (Settembre 2021 - Novembre 2024)
 
 ### Diploma di Tecnico Superiore in Software Design and Web Development
 FONDAZIONE JOBSACADEMY – San Paolo d'Argon, BG (Settembre 2016 – Giugno 2018)
