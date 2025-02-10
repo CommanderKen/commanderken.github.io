@@ -1,6 +1,6 @@
 ---
 title: "Book wishlist"
-date: 2024-09-02
+date: 2025-02-10
 draft: false
 description: "Book wishlist"
 ---
@@ -26,7 +26,6 @@ Una lista (in costante aggiornamento) dei libri che vorrei acquistare e leggere 
 - Prolegomeni (Kant)
 - CCCP. Cosmic Communist Constructions Photographed (Chaubin)
 - Storia dei camuni e della Valle Camonica
-- L'arte dell'invisibilità (Mitnick)
 - Intelligenza artificiale e pensiero umano (Searle)
 - Irriducibile (Faggin)
 - La rivoluzione che viene (Graeber)
@@ -55,3 +54,7 @@ Una lista (in costante aggiornamento) dei libri che vorrei acquistare e leggere 
 - I segreti delle parole (Chomsky, Moro)
 - Le lingue impossibili (Moro)
 - La nascita di ogni cosa. Come l'universo è diventato complesso (Morowitz)
+- Animali razionali dipendenti (MacIntyre)
+- Enciclopedia, genealogia e tradizione. Tre versioni rivali di ricerca morale (MacIntyre)
+- L'uomo a una dimensione (Marcuse)
+- Somma teologica (Tommaso d'Aquino)
