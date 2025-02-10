@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-date: 2024-11-18
+date: 2025-02-10
 draft: false
 description: "My Curriculum Vitae"
 ---
@@ -30,6 +30,9 @@ LYNX SPA – Milano (Maggio 2017 – Ottobre 2017)
 Si occupa della manutenzione di siti e applicativi web.
 
 ## Istruzione
+
+### Laurea magistrale in scienze filosofiche
+UNIVERSITÀ DEGLI STUDI DI MILANO (Novembre 2024 - In corso)
 
 ### Laurea in filosofia
 UNIVERSITÀ DEGLI STUDI DI MILANO (Settembre 2021 - Novembre 2024)
