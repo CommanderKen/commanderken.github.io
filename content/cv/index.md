@@ -1,11 +1,17 @@
 ---
 title: "Curriculum Vitae"
-date: 2025-02-10
+date: 2025-05-04
 draft: false
 description: "My Curriculum Vitae"
 ---
 
 ## Esperienza lavorativa
+
+### Insegnante di informatica
+
+COOPERATIVA ASSOLO – Berzo Inferiore, BS (Marzo 2025 – In corso)
+
+Si occupa di ripetizioni di informatica a studenti delle scuole superiori.
 
 ### Proiezionista
 
@@ -31,14 +37,14 @@ Si occupa della manutenzione di siti e applicativi web.
 
 ## Istruzione
 
-### Laurea magistrale in scienze filosofiche
-UNIVERSITÀ DEGLI STUDI DI MILANO (Novembre 2024 - In corso)
-
 ### Laurea in filosofia
+
 UNIVERSITÀ DEGLI STUDI DI MILANO (Settembre 2021 - Novembre 2024)
 
 ### Diploma di Tecnico Superiore in Software Design and Web Development
+
 FONDAZIONE JOBSACADEMY – San Paolo d'Argon, BG (Settembre 2016 – Giugno 2018)
 
 ### Diploma di liceo scientifico
+
 IIS OLIVELLI - PUTELLI – Darfo Boario Terme, BS (Settembre 2011 – Giugno 2016)
