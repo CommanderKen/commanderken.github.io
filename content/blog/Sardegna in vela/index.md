@@ -92,7 +92,7 @@ Arrivati a La Maddalena ne approfittiamo per visitare il paese, comprare qualche
 
 L'ultimo giorno proviamo la manovra di "man overboard" o "uomo in mare". Nella sfortunata ipotesi che una persona cada fuori dalla barca è necessario effettuare una manovra per recuperarla. Per prima cosa si urla "man overboard" per allertare l'equipaggio. Una persona deve prendersi l'incarico di mantenere contatto visivo costante con la persona in mare. Si segna la posizione della barca tramite il GPS di bordo e si fa una "mayday call" via radio per allertare i soccorsi e le eventuali barche nelle vicinanze. Immediatamente inizia anche la manovra di recupero: si porta la barca in beam reach, ci si allontana della lunghezza di circa 4 barche, si vira e si ritorna verso l'uomo in mare rallentando e lo si recupera con una corda. Lo schema seguente lo spiega meglio. Noi ci siamo esercitati con una boa.
 
-![Man Overboard](news-2022-12-19-MOB-figure-eight-diagram.jpg "Man Overboard")
+![Man Overboard](news-2022-12-19-MOB-figure-eight-diagram.png "Man Overboard")
 
 ![Navigazione](News-2019-02-11-Points-of-Sail-624x665.jpg "Navigazione")
 
