@@ -1,7 +1,7 @@
 ---
 title: "Sardegna in barca a vela"
-date: 2025-08-12
-draft: true
+date: 2025-08-26
+draft: false
 description: "Sardegna in barca a vela"
 ---
 
