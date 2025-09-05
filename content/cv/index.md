@@ -1,21 +1,27 @@
 ---
 title: "Curriculum Vitae"
-date: 2025-05-04
+date: 2025-09-05
 draft: false
 description: "My Curriculum Vitae"
 ---
 
 ## Esperienza lavorativa
 
+### Software developer
+
+DEXA – Sarezzo, BS (Settembre 2025 – In corso)
+
+Si occupa di sviluppo web fullstack.
+
 ### Insegnante di informatica
 
-COOPERATIVA ASSOLO – Berzo Inferiore, BS (Marzo 2025 – In corso)
+COOPERATIVA ASSOLO – Berzo Inferiore, BS (Marzo 2025 – Agosto 2025)
 
 Si occupa di ripetizioni di informatica a studenti delle scuole superiori.
 
 ### Proiezionista
 
-CINEMA IRIDE – Costa Volpino, BG (Gennaio 2024 – In corso)
+CINEMA IRIDE – Costa Volpino, BG (Gennaio 2024 – Agosto 2025)
 
 ### Software developer
 
