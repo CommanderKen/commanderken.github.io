@@ -21,11 +21,11 @@ Si occupa di ripetizioni di informatica a studenti delle scuole superiori.
 
 ### Proiezionista
 
-CINEMA IRIDE – Costa Volpino, BG (Gennaio 2024 – Agosto 2025)
+CINEMA IRIDE – Costa Volpino, BG (Gennaio 2025 – Agosto 2025)
 
 ### Software developer
 
-STUDIOFARMA – Costa Volpino, BG (Settembre 2019 – Novembre 2023)
+COMPUGROUP MEDICAL – Costa Volpino, BG (Settembre 2019 – Novembre 2024)
 
 Si occupa dello sviluppo del software gestionale per farmacie del gruppo CGM (CompuGroup Medical).
 
