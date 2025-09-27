@@ -5,7 +5,7 @@ draft: false
 description: "Sardegna in barca a vela"
 ---
 
-Sono passati alcuni mesi dalla mio viaggio in barca a vela tra la Sardegna e la Corsica e direi che, dopo aver metabolizzato l'esperienza, è arrivato il momento adatto per condividerla.
+Sono passati alcuni mesi dal mio viaggio in barca a vela tra la Sardegna e la Corsica e direi che, dopo aver metabolizzato l'esperienza, è arrivato il momento adatto per condividerla.
 Partiamo dall'inizio. Arrivo all'aereoporto di Orio la mattina del 23 aprile 2025. Il volo è alle 12:20 e l'arrivo è previsto alle 13:40 all'aeroporto di Olbia-Costa Smeralda "Karim Aga Khan IV". Ma chi è costui? 
 
 ### Un po' di storia
