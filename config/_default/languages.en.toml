@@ -1,11 +1,11 @@
-languageCode = "it"
-languageName = "Italian"
+languageCode = "en"
+languageName = "English"
 weight = 1
 title = "Andrea Lucchini"
 
 [params]
-  displayName = "IT"
-  isoCode = "it"
+  displayName = "EN"
+  isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "homepage.avif"
@@ -17,7 +17,7 @@ title = "Andrea Lucchini"
   name = "Andrea Lucchini"
   image = "profile.jpg"
 # image = "img/blowfish_logo.png"
-  headline = "Benvenuti nel mio sito personale"
+  headline = "Welcome to my personal website"
 #  bio = "A little bit about you"
   links = [
     { email = "mailto:me@andrealucchini.com" },
